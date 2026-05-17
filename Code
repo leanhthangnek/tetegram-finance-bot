@@ -3,7 +3,7 @@
 // ==========================================
 
 // 1. Token Bot Telegram (Lấy từ @BotFather)
-const TOKEN = "YOUR_TELEGRAM_BOT_TOKEN";
+const TOKEN = "8767890006:AAGIyBG-AhCOLf09fe_VY2Eys6DRuy_vUiA";
 
 // 2. ID Google Sheets (Lấy từ link trình duyệt)
 const SHEET_ID = "YOUR_SHEET_ID";
