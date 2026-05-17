@@ -6,10 +6,10 @@
 const TOKEN = "8767890006:AAGIyBG-AhCOLf09fe_VY2Eys6DRuy_vUiA";
 
 // 2. ID Google Sheets (Lấy từ link trình duyệt)
-const SHEET_ID = "YOUR_SHEET_ID";
+const SHEET_ID = "1Cf0Z71exZmXXfdd2BGSY9kw9fG-LC1Yl79CcbB88hAA";
 
 // 3. ID Telegram Admin (Ví dụ: ["12345678", "87654321"])
-const ADMIN_IDS = ["YOUR_ADMIN_ID"];
+const ADMIN_IDS = ["8705461079"];
 
 // 4. URL Web App (Sau khi bấm 'Deploy' trong Apps Script)
 const WEB_APP_URL = "YOUR_WEB_APP_URL";
